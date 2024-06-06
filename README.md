@@ -1,1 +1,1 @@
-# teor-a-examen
+# teoria
